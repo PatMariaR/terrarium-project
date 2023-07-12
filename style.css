@@ -1,8 +1,4 @@
 
-h1 {
-    color: blue;
-}
-
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -88,11 +84,21 @@ h1 {
 	opacity: 0.7;
 	z-index: -1;
 }
- /* .jar-glossy-long {
-
-
-	
+  .jar-glossy-long {
+	width: 3%;
+	height: 20%;
+	border-radius: 2rem;
+	background: #ddfbff;
+	position: absolute;
+	bottom: 20%;
+	left: 5%;	
 }
 .jar-glossy-short {
-
-}  */
+	width:3%;
+	height: 5%;
+	border-radius:2rem;
+	background: #ddfbff;
+	position: absolute;
+	bottom: 45%;
+	left: 5%;
+}  
